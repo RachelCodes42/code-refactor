@@ -38,11 +38,6 @@ w3schools
 
 This codebase is open-source and available under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
 
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-
 ## Features
 
 Semantic HTML Elements, Logical Structure, Accessible Alt Attributes, Sequential Heading Attributes, Concise, Descriptive Title Elements
